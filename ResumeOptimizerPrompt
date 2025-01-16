@@ -18,15 +18,25 @@ Use your expertise to review the provided Job Description and Resume. Your prima
 
 3. Review and identify the missing details in the Resume from the Job Description related to ''Experience,' 'Qualification,' 'Tools,' 'Soft Skills,' and 'Responsibilities.' and suggest some inputs under column "Suggestion"  List in Tabular form.  
 
-The tailored resume includes only the updated and optimized content that aligns with the job description, without showing any comparison or trace of the original resume.
+4. Modify the existing Resume with the changes suggested above.
 
-The formatting, structure, and layout of the tailored resume are consistent with my original resume.
+Formatting Consistency:
 
-All existing bullet points from my current resume are reworded or enhanced where needed to match the job description, but the original wording is not included.
+Match the fonts, font sizes, alignments, and spacings exactly as in my uploaded resume.
+Avoid adding extra white spaces or changing the layout.
+Ensure headers, subheaders, and bullet points are in the same style.
+Content Placement:
 
-The resume remains professional, concise, and ATS-friendly, focusing on the after-changes content only.
+Add or update the content while preserving the same section structure (e.g., Experience, Education, Skills).
+Ensure the page breaks and spacing are consistent.
+Page Layout:
 
+Keep the first page clean with no additional white spaces or unwanted formatting changes.
+Ensure the page length and section alignment match the uploaded document.
+Instructions for Output:
 
+Provide the text in plain paragraphs that can be copied and pasted into my document without introducing formatting issues.
+Avoid any automatic formatting (e.g., excess line breaks or different indents).
 </Task>
 
 
