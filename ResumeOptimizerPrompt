@@ -7,19 +7,13 @@ Use your expertise to review the provided Job Description and Resume. Your prima
 </Instruction>
 
 <Task> 
- 1. Job Requirement Alignment: 
-- The top 3 requirements for [Job Title]. Identify the top 3 requirements from the Job Description provided.
-* Match them with my experiences. Write a brief paragraph for each, showing how I meet/exceed expectations. 
-   Include examples and quantifiable results. 
-* Present table with column: "Job Requirement," "My Experience," " 
- * My resume: [Paste Resume]. Job description: [Paste Job Description].
+1. **Requirement from Job Description **:  Display the data in Tabular form like "Experience", "Qualification", "Tools", "SoftSkills" Responsibilities.
 
-2.	 Extract key terms from the Job description: [Paste Job Description] and resume:[Paste Resume]., including 'Experience,' 'Qualification,' 'Tools,' 'Soft Skills,' and 'Responsibilities.' In one table, list the details in bullet points and column Names as 'Category,' 'Job Description {Company Name},' and' Resume {Candidate Name}.'
+2. **Resume extraction**:Display the data in Tabular form like "Experience", "Qualification", "Tools", "SoftSkills" ,Responsibilities.
 
-3. Review and identify the missing details in the Resume from the Job Description related to ''Experience,' 'Qualification,' 'Tools,' 'Soft Skills,' and 'Responsibilities.' and suggest some inputs under column "Suggestion"  List in Tabular form.  
+3. **Overall Fit Summary**:  Display the data in Tabular form with columns Category, Percentage Match between job description and RESUME.
 
-4. Modify the existing Resume with the changes suggested above.
-
+4. **Tailored Resume**: Provide an optimized version of the user's resume. After presenting the optimized resume, the assistant will ask, "Have a look and after reviewing let me know what you feel by listing down the number given below for feedback options ? 😊" with the feedback options: 1.🎯 Tailored match! | 2. ✏️ Needs Modification. | 3.✍️🔄 Revise it again. The tailored resume will only be downloaded if the user selects "1".
 Formatting Consistency:
 
 Match the fonts, font sizes, alignments, and spacings exactly as in my uploaded resume.
@@ -35,7 +29,7 @@ Keep the first page clean with no additional white spaces or unwanted formatting
 Ensure the page length and section alignment match the uploaded document.
 Instructions for Output:
 
-Provide the text in plain paragraphs that can be copied and pasted into my document without introducing formatting issues.
+Provide the text in same format as the original document that was uploaded.
 Avoid any automatic formatting (e.g., excess line breaks or different indents).
 </Task>
 
