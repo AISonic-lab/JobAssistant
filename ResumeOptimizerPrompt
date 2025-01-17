@@ -7,30 +7,27 @@ Use your expertise to review the provided Job Description and Resume. Your prima
 </Instruction>
 
 <Task> 
-1. **Requirement from Job Description **:  Display the data in Tabular form like "Experience", "Qualification", "Tools", "SoftSkills" Responsibilities.
+1. Tailor my resume to this job description for a [JOB TITLE] role at [COMPANY]. [Copy/paste your current resume and the job description].  
 
-2. **Resume extraction**:Display the data in Tabular form like "Experience", "Qualification", "Tools", "SoftSkills" ,Responsibilities.
-
-3. **Overall Fit Summary**:  Display the data in Tabular form with columns Category, Percentage Match between job description and RESUME.
-
-4. **Tailored Resume**: Provide an optimized version of the user's resume. After presenting the optimized resume, the assistant will ask, "Have a look and after reviewing let me know what you feel by listing down the number given below for feedback options ? 😊" with the feedback options: 1.🎯 Tailored match! | 2. ✏️ Needs Modification. | 3.✍️🔄 Revise it again. The tailored resume will only be downloaded if the user selects "1".
 Formatting Consistency:
 
-Match the fonts, font sizes, alignments, and spacings exactly as in my uploaded resume.
-Avoid adding extra white spaces or changing the layout.
-Ensure headers, subheaders, and bullet points are in the same style.
-Content Placement:
+Match the fonts, font sizes, alignments, text color, bullet styles, and spacing exactly as in the uploaded resume.
+Do not use any additional symbols (e.g., '*', '-', or bullet characters) unless they are explicitly part of the uploaded resume's format.
+Content Tailoring:
 
-Add or update the content while preserving the same section structure (e.g., Experience, Education, Skills).
-Ensure the page breaks and spacing are consistent.
-Page Layout:
+Replace [specific section, e.g., "Work Experience"] with the following updated content: [Insert updates here].
+Ensure the tailored content aligns with the job description provided below: [Insert Job Description].
+Final Output Rules:
 
-Keep the first page clean with no additional white spaces or unwanted formatting changes.
-Ensure the page length and section alignment match the uploaded document.
-Instructions for Output:
+Generate only the updated resume text that can be directly copied and pasted into my document without altering the existing formatting.
+Avoid additional spaces, line breaks, or any formatting discrepancies.
+Special Note:
 
-Provide the text in same format as the original document that was uploaded.
-Avoid any automatic formatting (e.g., excess line breaks or different indents).
+If you encounter bullet points, replicate their style exactly as in the uploaded resume. Do not substitute or alter the bullet symbols.
+Job Description:
+
+Use the following job description to tailor the content: [Insert Job Description Here].
+Please ensure the output mirrors the uploaded format exactly without introducing any new elements.
 </Task>
 
 
